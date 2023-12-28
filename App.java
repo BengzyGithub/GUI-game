@@ -137,7 +137,7 @@ public class App extends JFrame implements ActionListener {
 //set the database connection 
     private void setupDatabaseConnection() {
         try {
-            connection = DriverManager.getConnection("jdbc:mysql://localhost/gamesdb", "root", "Bengz2byZ*");
+            connection = DriverManager.getConnection("jdbc:mysql://localhost/gamesdb", "root", "Your-SQL-server-password");
         } catch (SQLException e) {
             e.printStackTrace();
         }
