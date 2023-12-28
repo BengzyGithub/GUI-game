@@ -137,30 +137,7 @@ public class LogInWithGoogle extends JFrame {
             e.printStackTrace();
         }
     }
-    
-/*private void sendGreetingsEmail(String recipient) throws IOException {
-    final String sender = "alphonselemnsernyuy@gmail.com"; // Your email address
-    String subject = "Welcome to DragonBalls!";
-    String body = "Dear user,\n\nThank you for creating an account with DragonBalls! ...";
 
-    try {
-        Message message = new Message();
-        message.setSender(sender);
-        message.setTo(recipient);
-        message.setSubject(subject);
-        message.setTextBody(body);
-
-        MailService mailService = MailServiceFactory.getMailService();
-        mailService.send(message);
-
-        System.out.println("Email sent successfully.");
-    } catch (MailServiceException | MailSendException e) {
-        e.printStackTrace();
-    }
-}//end of sending email */
-
-    
-    
     /**
      * Method to launch the game 
      */
