@@ -1,8 +1,5 @@
 package firstgame;
 
-//continue by separating the create account frame and the login frame
-
-//create a package named login in src
 // reference the classes
 import balls.BallAnimation; //import BallAnimation
 //import login.CreateAcct; //import the Create account class
