@@ -1,5 +1,7 @@
 # GUI-game
 
+[ see more & Watch Video ](https://alphonselemnsernyu.wixsite.com/my-portfolio-project/subproject/dragonballs-game)
+
 ## Overview
 
 It is a Java-based 2D game project that combines the excitement of the Dragon Balls Game with the convenience of Google Sign-In functionality. This project offers an engaging gaming experience while providing users with the option to log in or create a new user account using Google Sign-In or a custom sign-in mechanism.
